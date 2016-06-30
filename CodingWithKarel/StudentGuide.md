@@ -39,3 +39,10 @@ Try to write functions that have Karel do the following:
 *  Move until Karel hits a wall
 *  Move until Karel finds a ball
 *  Have Karel move around the perimeter of a grid, no matter what size
+*  
+
+## More JavaScript
+
+Try another coding activity! On [this page], scroll down to the activity call 'Code Your own Graphics with Javascript'.
+
+Press 'Start'. Please skip the videos, but you can ask for help at any time!
