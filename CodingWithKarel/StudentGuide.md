@@ -43,6 +43,7 @@ Try to write functions that have Karel do the following:
 
 ## More JavaScript
 
-Try another coding activity! On [this page], scroll down to the activity call 'Code Your own Graphics with Javascript'.
+Try another coding activity! On [this page](http://hourofcode.codehs.com/), scroll down to the activity called
+'Code Your own Graphics with Javascript'.
 
 Press 'Start'. Please skip the videos, but you can ask for help at any time!
